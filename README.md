@@ -1,3 +1,4 @@
+Super
 # Google Research Football
 
 ## Neue Zeile zum git testen eingefügt
@@ -17,9 +18,9 @@ Mailing list: https://groups.google.com/forum/#!forum/google-research-football
 Comments / suggestions / feature ideas are welcome on this list, and please
 use it to communicate with us (in addition to GitHub issues).
 
-For non-public matters that you'd like to discuss directly with the Google Research Football team,
-please use google-research-football@google.com.
-
+For non-public matters that you'd like to discuss sssdirectly with the Google Research Football team,
+please use google-research-football@google.com.sss
+bb
 ## Installation
 Currently we're supporting only Linux and Python3.
 You can either install the code from github (newest version) or from pypi (stable version).
